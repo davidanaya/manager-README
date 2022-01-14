@@ -49,18 +49,19 @@ I don’t care about working hours, I care about outcomes. Please do your best t
 
 ## Things that are important to me
 
-- First I care about my team, as individuals, then I care about me, and then i care about the company. I think when my team is happy this is what brings the most benefits to me and to the company. If I need to make a decision that prioritizes the company over you or the team, I will clearly explain why.
-- I like to [think in systems](https://thesystemsthinker.com/). I do my best to consider different parts of the system when I have to make a decision, and how they will be impacted. That being said, sometimes I prefer to act fast if I feel that the consequences of a bad decision are low risk.
-- I trust by default. I really like the concept of [trust battery](https://www.nytimes.com/2016/04/24/business/tobi-lutke-of-shopify-powering-a-team-with-a-trust-battery.html) and I always try to start a relationship with the battery at 75%. If the battery goes to 0%, it’s very difficult for me to recover from that.
-- I believe in honest communication. If I say no, it means no; if I say yes, it means yes. I have problems when people behave differently. I understand this is a [cultural thing](https://erinmeyer.com/books/the-culture-map/) and I try my best to adapt to everybody, but I still need to work on that.
-- I always assume ignorance or incompetence over malice. I respect people that ask for help and own their failures, and I try to do that myself. I don’t like when people blame others to hide their mistakes or have a hidden agenda. Please give me feedback if you think I’m doing that myself.
-- I do care about the best solution. I’ll try to get everyone to share what they think about a problem, and I will happily change my mind if I think someone has a better approach to fix it.
+- **First I care about my team, as individuals, then I care about me, and then i care about the company**. I think when my team is happy this is what brings the most benefits to me and to the company. If I need to make a decision that prioritizes the company over you or the team, I will clearly explain why.
+- **I like to [think in systems](https://thesystemsthinker.com/)**. I do my best to consider different parts of the system when I have to make a decision, and how they will be impacted. That being said, sometimes I prefer to act fast if I feel that the consequences of a bad decision are low risk.
+- **I trust by default**. I really like the concept of [trust battery](https://www.nytimes.com/2016/04/24/business/tobi-lutke-of-shopify-powering-a-team-with-a-trust-battery.html) and I always try to start a relationship with the battery at 75%. If the battery goes to 0%, it’s very difficult for me to recover from that.
+- **I believe in honest communication**. If I say no, it means no; if I say yes, it means yes. I have problems when people behave differently. I understand this is a [cultural thing](https://erinmeyer.com/books/the-culture-map/) and I try my best to adapt to everybody, but I still need to work on that.
+- **I always assume ignorance or incompetence over malice**. I respect people that ask for help and own their failures, and I try to do that myself. I don’t like when people blame others to hide their mistakes or have a hidden agenda. Please give me feedback if you think I’m doing that myself.
+- **I do care about the best solution**. I’ll try to get everyone to share what they think about a problem, and I will happily change my mind if I think someone has a better approach to fix it.
 
 ## Nuances
 
-- I’m an introvert. I function well in small meetings even with people I don’t know. In big meetings, or social events, I’m abnormally quiet.
-- According to [CliftonStrengths](https://store.gallup.com/h/en-us) I value “Execution”. A lot. I totally agree with it, and the inconvenience is that I naturally evaluate people only for what they deliver. I’m aware this is not ideal and I’m working on it. Please let me know if you see me doing that.
+- **I’m an introvert**. I function well in small meetings even with people I don’t know. In big meetings, or social events, I’m abnormally quiet.
+- According to [CliftonStrengths](https://store.gallup.com/h/en-us) **I value “Execution”**. A lot. I totally agree with it, and the inconvenience is that I naturally evaluate people only for what they deliver. I’m aware this is not ideal and I’m working on it. Please let me know if you see me doing that.
 
+<img src="https://github.com/davidanaya/manager-README/blob/main/clifton.png" width="220">
 
 ## My interests
 
