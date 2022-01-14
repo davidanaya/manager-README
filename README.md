@@ -67,4 +67,4 @@ I don’t care about working hours, I care about outcomes. Please do your best t
 
 - Cycling. I have a [Strava account](https://www.strava.com/athletes/12348216) to track what I do and I’ve been using [Whoop](https://www.whoop.com/) for daily strain and recovery since early 2021.
 - I love nature and the mountains. I enjoy the quietness, the fresh air, and the open spaces. I’ve done a lot of hiking and I tried climbing, but I'm afraid of heights.
-- I love to read, both fiction and non-fiction. I read 54 books last year (2021). One of my favorites was [The Colour](https://www.goodreads.com/book/show/1022376.The_Colour?ac=1&from_search=true&qid=w0q67ixM60&rank=1). For work-related, [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate?from_search=true&from_srp=true&qid=9b71SfBFuY&rank=4).
+- I love to read, both fiction and non-fiction. I read 54 books last year (2021). One of my favorites was [The Colour](https://www.goodreads.com/book/show/1022376.The_Colour?ac=1&from_search=true&qid=w0q67ixM60&rank=1). For non-fiction, [Accelerate](https://www.goodreads.com/book/show/35747076-accelerate?from_search=true&from_srp=true&qid=9b71SfBFuY&rank=4).
